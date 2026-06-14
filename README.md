@@ -1,6 +1,33 @@
-# Project 4 — Real-Time Fraud Detection System
+Description:
+Developed a real-time fraud detection platform that analyzes streaming financial transactions using Machine Learning and big-data technologies. The system detects suspicious activities, generates instant fraud alerts, calculates risk scores, blocks high-risk accounts, and visualizes live transaction analytics through an interactive monitoring dashboard.
 
-End-to-end reference implementation.
+Technologies Used:
+
+Python
+Apache Kafka
+Apache Spark
+FastAPI
+React.js
+PostgreSQL / SQLite
+Scikit-learn
+Docker
+MLflow (MLOps)
+Chart.js / Recharts
+
+Project Complexity: ⭐⭐⭐⭐⭐ (Advanced)
+
+Key Highlights:
+
+Real-time transaction processing
+Machine Learning-based fraud detection
+Live risk score calculation
+Automated fraud alerts
+Account blocking mechanism
+Interactive analytics dashboard
+Kafka-Spark streaming pipeline
+MLOps model monitoring
+ATS Resume Version (2 Lines)
+
 
 **Stack**
 - Apache Kafka — transaction event bus
