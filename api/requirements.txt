@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+psycopg2-binary
+joblib
+numpy
+scikit-learn>=1.4
+kafka-python
+requests
