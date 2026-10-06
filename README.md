@@ -14,7 +14,6 @@ Docker
 MLflow (MLOps)
 Chart.js / Recharts
 
-Project Complexity: ⭐⭐⭐⭐⭐ (Advanced)
 
 Key Highlights:
 
